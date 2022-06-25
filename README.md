@@ -1,3 +1,3 @@
-# web-release-qa.youtube.com
+# payments.youtube.com
 
 ##Subdomain takeover by Manoj
